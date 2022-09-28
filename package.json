@@ -1,7 +1,7 @@
 {
   "name": "mindmap",
   "version": "1.0.0",
-  "description": "Privacy Tech Mind Map",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/openprivacytech/mindmap.git"
   },
-  "keywords": [
-    "pricacytech",
-    "mindmap"
-  ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
